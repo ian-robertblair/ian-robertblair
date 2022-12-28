@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋, I am Ian Robert Blair</h1>
+<h3 align="center"> iOS Developer </h3>
+
 - 🔭 I’m currently working on iOS App Development
 - 📫 How to reach me: ianrobertblair@icloud.com
 
